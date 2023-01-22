@@ -1,6 +1,6 @@
 ### Hi there 👋 This is lakshminarayanan
 
-<img src="file:///Users/lakshminarayanan/Downloads/Lakshminarayanan%20R.png">
+<img src="Lakshminarayanan R.png">
 
 <!--
 **Lakshminarayanan-R/Lakshminarayanan-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
