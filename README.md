@@ -1,6 +1,10 @@
 ### Hi there 👋 This is lakshminarayanan
 
+I started my career as a Mechaical Engineer. But I always loved coding and asking a lot of why's during my college days. At my first work, I was introduced to Data Analytics and there started my journey towards passion. I felt that I can finally love something I could do.
+
 <img src="Lakshminarayanan R.png">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshminarayanan-R&show_icons=true&theme=transparent)
 
 <!--
 **Lakshminarayanan-R/Lakshminarayanan-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
