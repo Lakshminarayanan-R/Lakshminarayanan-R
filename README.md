@@ -6,6 +6,13 @@ I started my career as a Mechaical Engineer. But I always loved coding and askin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshminarayanan-R&show_icons=true&theme=transparent)
 
+Skills & Certification:
+- Microsoft Power BI
+- SQL
+- Microsoft Excel (advanced functions & VBA)
+- Python
+- HTML & CSS
+
 <!--
 **Lakshminarayanan-R/Lakshminarayanan-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
