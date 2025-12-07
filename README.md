@@ -2,14 +2,16 @@
 
 I am a full stack data developer with experience in Data Science, Analytics and Engineering. I have a masters degree in Data Science and Engineering which helped me grasp the foundational math behind algorithms and hands on baseline models. I love crunching data, identifying intersting trends in them and solve complex process problems and workflows. I am in a journey of exploring new tech updates in the field of AIML also having a strong theoritical background on these advanced concepts.
 
-<img src="Lakshminarayanan R.png">
+- 🔭 I am currently working on a Data Profiler Project.
+- 🌱 I am currently learning on Transformers and Large Language Models.
+- 💪 Ultimately trying to stay motivated through the process.
 
 Skills & Certification:
-- Microsoft Power BI
-- SQL
-- Microsoft Excel (advanced functions & VBA)
 - Python
-- HTML & CSS
+- SQL
+- Microsoft Power BI (PL-300)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
 
 <!--
 **Lakshminarayanan-R/Lakshminarayanan-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
