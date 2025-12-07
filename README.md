@@ -4,7 +4,7 @@ I started my career as a Mechaical Engineer. But I always loved coding and askin
 
 <img src="Lakshminarayanan R.png">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshminarayanan-R&show_icons=true&theme=transparent)
+![Lakshminarayanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshminarayanan-R&show_icons=true&theme=transparent)
 
 Skills & Certification:
 - Microsoft Power BI
