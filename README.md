@@ -1,10 +1,8 @@
 ### Hi there 👋 This is lakshminarayanan
 
-I started my career as a Mechaical Engineer. But I always loved coding and asking a lot of why's during my college days. At my first work, I was introduced to Data Analytics and there started my journey towards passion. I felt that I can finally love something I could do.
+I am a full stack data developer with experience in Data Science, Analytics and Engineering. I have a masters degree in Data Science and Engineering which helped me grasp the foundational math behind algorithms and hands on baseline models. I love crunching data, identifying intersting trends in them and solve complex process problems and workflows. I am in a journey of exploring new tech updates in the field of AIML also having a strong theoritical background on these advanced concepts.
 
 <img src="Lakshminarayanan R.png">
-
-![Lakshminarayanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshminarayanan-R&show_icons=true&theme=transparent)
 
 Skills & Certification:
 - Microsoft Power BI
